@@ -44,7 +44,7 @@ Norse mythology has been the subject of scholarly discourse since the 17th centu
 
 Norse, Nordic, or Scandinavian mythology is the body of myths belonging to the North Germanic peoples, stemming from Old Norse religion and continuing after the Christianization of Scandinavia, and into the Nordic folklore of the modern period. Most of the surviving mythology centers on the plights of the gods and their interaction with several other beings, such as humanity and the jötnar, beings who may be friends, lovers, foes, or family members of the gods.
 
-**Summary Percent:** 30%
+**Summary Percent:** 20%
 **Summarized Word Count:** 75
 
 Feel free to explore and enhance the application as needed!

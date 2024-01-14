@@ -23,10 +23,10 @@ def analyse():
     
     percentage = int(request.form.get('percentage', 30) or 30) #using default value 30 when percent not provided
     
-    summary, original_txt, len_orig_txt, len_summary = textrank_summarizer(rawtext, percentage)
+    summary, original_txt, len_orig_txt, len_summary, summary_percent= textrank_summarizer(rawtext, percentage)
     
     return render_template("summary.html", summary=summary, original_txt=original_txt,
-                           len_orig_txt=len_orig_txt, len_summary=len_summary)
+                           len_orig_txt=len_orig_txt, len_summary=len_summary, summary_percent=summary_percent)
 
 if __name__ == "__main__":
     app.run(debug=True)

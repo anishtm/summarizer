@@ -1,0 +1,17 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore environment-specific files
+challenge/
+
+# Ignore IDE or editor-specific files and directories
+.idea/
+.vscode/
+
+# Ignore local configuration files
+*.config
+*.log
+
+# Ignore any specific files or directories you want to exclude
+/static/
+/venv/
